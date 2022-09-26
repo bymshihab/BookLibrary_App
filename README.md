@@ -3,4 +3,5 @@
 
 
 <h5>Dark Mode of the Book Library</h5>
-![photo_2022-09-26_19-06-03](https://user-images.githubusercontent.com/79126449/192286862-391120b9-4949-49e8-b00b-8269c1140dfc.jpg)
+![photo_2022-09-26_19-06-03](https://user-images.githubusercontent.com/79126449/192287069-6a13e7da-ffd0-46fa-997b-1b7ae9464b64.jpg)
+
