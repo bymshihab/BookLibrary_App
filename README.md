@@ -4,5 +4,5 @@
 
 <h5>Dark Mode of the Book Library</h5>
 
-<img src="Images/Normal_mode.jpg" width="100">
+<img src="Images/Normal_mode.jpg" width="200">
 
