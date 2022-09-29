@@ -1,3 +1,3 @@
 # BookLibrary_App
-A simple Book library App for an small organization. (Stored in Master branch)
+A simple Book library App for a small organization. (Stored in Master branch)
 
