@@ -1,6 +1,13 @@
  BookLibrary_App
 <h1>A simple Book library App for a small organization.</h1>
 
+This Project Contains:
+1. 4 Screen.
+2. An adapter view (Recycler view)
+3. App Drawer
+4. Two Mode
+5. Shared Preference(Contain night mode/ normal mode)
+
 
 <h3>Normal Mode of the Book Library</h3>
 <br>
