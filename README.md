@@ -2,7 +2,7 @@
 <h1>A simple Book library App for a small organization.</h1>
 
 This Project Contains:
-1. 4 Screen.
+1. Four (4) diffrent Screens.
 2. An adapter view (Recycler view)
 3. App Drawer
 4. Two Mode
