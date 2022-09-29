@@ -1,7 +1,7 @@
  <h1>BookLibrary_App</h1>
 <h3>A simple Book library App for a small organization.</h3>
 
-Features used for this Project:
+<b>Features used for this Project:</b>
 1. Four (4) diffrent Screens.
 2. An adapter view (Recycler view)
 3. App Drawer
