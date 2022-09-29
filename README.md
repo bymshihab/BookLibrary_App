@@ -1,12 +1,13 @@
  <h1>BookLibrary_App</h1>
 <h3>A simple Book library App for a small organization.</h3>
 
-This Project Contains:
+Features used for this Project:
 1. Four (4) diffrent Screens.
 2. An adapter view (Recycler view)
 3. App Drawer
 4. Two Mode
 5. Shared Preference(Contain night mode/ normal mode)
+6. SQLight Database.
 
 
 <h3>Normal Mode of the Book Library</h3>
